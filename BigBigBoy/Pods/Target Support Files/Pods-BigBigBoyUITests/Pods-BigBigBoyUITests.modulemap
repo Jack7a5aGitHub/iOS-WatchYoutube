@@ -1,0 +1,6 @@
+framework module Pods_BigBigBoyUITests {
+  umbrella header "Pods-BigBigBoyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_BigBigBoy {
+  umbrella header "Pods-BigBigBoy-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+//
+//  Localizable.strings
+//  BigBigBoy
+//
+//  Created by Jack Wong on 2018/12/27.
+//  Copyright © 2018 GymMania. All rights reserved.
+//
+
+"ERROR_IN_FAVOUR" = "Already In FavouriteList";
+"VIDEO_HINT" = "Long Press the video in order to add to your Favourite or share with your friends";
+"FAVOUR_HINT" = "Long Press Video in order to remove from your Favourite or share with your friends";
+"HIIT" = "HIIT";
+"HomeWorkout" = "No Equipments Training";
+"Dumbbell" = "Dumbbell Training";
+"BarBell" = "Barbell Training";

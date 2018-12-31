@@ -1,0 +1,15 @@
+//
+//  Localizable.strings
+//  BigBigBoy
+//
+//  Created by Jack Wong on 2018/12/27.
+//  Copyright © 2018 GymMania. All rights reserved.
+//
+
+"ERROR_IN_FAVOUR" = "既に気に入り";
+"VIDEO_HINT" = "気に入りたい又はシェアしたいなら、ビデオに長押ししてください";
+"FAVOUR_HINT" = "気に入りから外したい又はシェアしたいなら、ビデオに長押ししてください";
+"HIIT" = "HIIT";
+"HomeWorkout" = "体重のみトレーニング";
+"Dumbbell" = "ダンベルトレーニング";
+"BarBell" = "バーベルトレーニング";
