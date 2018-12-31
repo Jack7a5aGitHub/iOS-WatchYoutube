@@ -1,5 +1,9 @@
 # iOS-WatchYoutube
 
+English and Japanese Version is supported in Application.
+
+アプリで日本語と英語が対応しました。
+
 An app where can watch youtube and save your favourite video to your own favourite list. 
 
 アプリでYoutubeビデオが見えます。そして、気に入りビデオあれば、気に入りリストに保存することができます。
